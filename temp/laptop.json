@@ -1,0 +1,61 @@
+{
+  "id": "50e0e7fa-4593-4d5d-9d42-5c4aa0d28b20",
+  "brand": "Lenovo",
+  "name": "Thinkpad P1",
+  "cpu": {
+    "brand": "AMD",
+    "name": "Ryzen 3 PRO 3200GE",
+    "number_cores": 3,
+    "number_threads": 4,
+    "min_ghz": 2.189095192664166,
+    "max_ghz": 4.014196046052939
+  },
+  "gpus": [
+    {
+      "brand": "AMD",
+      "name": "RX 590",
+      "min_ghz": 1.3902593009311182,
+      "max_ghz": 1.589482301647058,
+      "memory": {
+        "unit": "GIGABYTE",
+        "value": "5"
+      }
+    }
+  ],
+  "ram": {
+    "unit": "GIGABYTE",
+    "value": "42"
+  },
+  "keyboard": {
+    "layout": "QWERTZ",
+    "backlit": true
+  },
+  "screen": {
+    "size_inch": 15.717249,
+    "resolution": {
+      "width": 5555,
+      "height": 3125
+    },
+    "panel": "IPS"
+  },
+  "storages": [
+    {
+      "driver": "SSD",
+      "memory": {
+        "unit": "GIGABYTE",
+        "value": "254"
+      }
+    },
+    {
+      "driver": "HDD",
+      "memory": {
+        "unit": "TERABYTE",
+        "value": "3"
+      }
+    }
+  ],
+  "weight_kg": 2.968841388461782,
+  "price_usd": 2132.1407742389624,
+  "release_year": 2015,
+  "updated_at": "2023-06-28T08:26:40.695088814Z"
+}
